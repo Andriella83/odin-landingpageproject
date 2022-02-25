@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header,
+.footer,
+.one {
+    background-color: #1F2937;
+}
+
+.two,
+.four {
+    background-color: #FFF;
+}
+
+.three {
+    background-color: #E5E7EB;
+}
